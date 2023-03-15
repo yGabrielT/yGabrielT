@@ -1,6 +1,5 @@
 # 💫 Sobre mim:
 🔭 Atualmente estudando na Etec Basilides de Godoy<br>👯 Cursando no 3º Ano de Jogos Digitais<br>🌱 Focando em evoluir no C#<br>
-![image](https://user-images.githubusercontent.com/95586355/224504847-7f681ee9-db50-468c-8711-44b2c414385a.png)
 
 
 # 💻 Tech Stack:
