@@ -1,5 +1,5 @@
-# 💫 Sobre mim:
-🔭 Atualmente estudando na Etec Basilides de Godoy<br>👯 Cursando no 3º Ano de Jogos Digitais<br>🌱 Focando em evoluir no C#<br>
+# 💫 About me:
+🔭 Studied at Etec Basilides De Godoy<br>🌱 Focusing on being a better game developer a day at a time C#<br>
 
 
 # 💻 Tech Stack:
