@@ -1,5 +1,5 @@
 # 💫 About me:
-🔭 Studied at Etec Basilides De Godoy<br>🌱 Focusing on being a better game developer a day at a time C#<br>
+🔭 Studied at Etec Basilides De Godoy<br>🌱 Focusing on being a better game developer a day at a time<br>
 
 
 # 💻 Tech Stack:
